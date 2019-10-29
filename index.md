@@ -12,4 +12,4 @@ The automated system could correctly predict malignancy in thyroid nodules withi
 #### Conclusion: 
 This automated system demonstrated that classification of thyroid nodules as malignant or benign using machine learning is feasible. Future work will perform comparative effectiveness research on the impact of TI-RADS scoring in the Michigan State University system and further develop the automation approach to grade thyroid nodules using the full TI-RADS scale. The implementation and automation of TI-RADS may be useful to guide practitioners using evidence-based recommendations, lead to rapid and reproducible structured reports, decrease invasive procedures to diagnose nodules, and provide a metric for quantifying the severity of thyroid nodules.
 
-![TIRADS]()
+![TIRADS](TIRADS.png)
