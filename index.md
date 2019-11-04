@@ -12,21 +12,34 @@ This study has two aims, focusing on process improvement and developing automati
 The automated system could correctly predict malignancy in thyroid nodules within the test set with an accuracy of 88.7% and an area under the curve of 0.914. This classification system provided a test statistic for each lesion, effectively estimating the percent likelihood of malignancy. This statistic could be used to rank nodules in patients with multiple suspicious lesions, providing insight into which nodules to biopsy in multinodular disease. 
 
 #### Conclusion: 
-This automated system demonstrated that classification of thyroid nodules as malignant or benign using machine learning is feasible. Future work will perform comparative effectiveness research on the impact of TI-RADS scoring in the Michigan State University system and further develop the automation approach to grade thyroid nodules using the full TI-RADS scale. The implementation and automation of TI-RADS may be useful to guide practitioners using evidence-based recommendations, lead to rapid and reproducible structured reports, decrease invasive procedures to diagnose nodules, and provide a metric for quantifying the severity of thyroid nodules.
-
-
-
-
+This automated system demonstrated that classification of thyroid nodules as malignant or benign using machine learning is feasible. Future work will perform comparative effectiveness research on the impact of TI-RADS scoring in the Michigan State University system and further develop the automation approach to grade thyroid nodules using the full TI-RADS scale. The implementation and automation of TI-RADS may be useful to guide practitioners using evidence-based recommendations, lead to rapid and reproducible structured reports, decrease invasive procedures to diagnose nodules, and provide a metric for quantifying the severity of thyroid nodules.    \nTwo
 
 Examples of TI-RADS thyroid ultrasound images from the Radiological Society of North America:
 
 
 
-TI-RADS 1:
+###### TI-RADS 1:
 
 ![TIRADS](TR1.gif)
 
 
-TI-RADS 2: 
+###### TI-RADS 2: 
 
-![TIRADS](TR1.gif)
+![TIRADS](TR2.gif)
+
+
+###### TI-RADS 3: 
+
+![TIRADS](TR3.gif)
+
+
+###### TI-RADS 4: 
+
+![TIRADS](TR4.gif)
+
+
+###### TI-RADS 5: 
+
+![TIRADS](TR5.gif)
+
+###### Tessler, F. N., et al. (2018, March 20). Thyroid Imaging Reporting and Data System (TI-RADS): A User's Guide. Retrieved from https://pubs.rsna.org/doi/full/10.1148/radiol.2017171240.
