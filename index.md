@@ -14,7 +14,7 @@ This automated system demonstrated that classification of thyroid nodules as mal
 
 <br/>
 
-![TIRADS](TI-RADS_PDF.jpg)  
+![TIRADS](TIRADS.png)  
 
 <br/><br/><br/>
 
